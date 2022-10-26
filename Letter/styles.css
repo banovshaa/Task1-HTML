@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}.container{
+    width: 60%;
+    margin: auto;
+    position: relative;
+}
+.receiver{
+    top:200px ;
+    position: absolute;
+}
+.sender-column{
+    width: 25%;
+    margin: 0;
+    left:50vw;
+    position: absolute;
+}
